@@ -22,7 +22,7 @@
                     <div class="aliment-container">
                     <div class="item"> Nom </div>
                     <div class="item"> <p>'.$array['nom'].'</p></div>
-                    <div class="item">'. "-".'</div>
+                    <div class="item"><p>'.$data['trempage'] .'</p></div>
                     <div class="item">Cuisson </div>
                     <div class="item"> <p>'.$details.'</p></div>
                     <div class="item"><a href="aliment.php?items=all">all 🍲 </a></div>
